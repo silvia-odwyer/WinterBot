@@ -6,14 +6,13 @@ A festive Discord bot made during a UCC Netsoc Hackathon.
 
 It enables you to send festive cards, GIFts, and a whole lot more! :gift: :joy:
 
-<!-- ## Get Stickers From Giphy!
-![Get Stickers With This Command](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/sticker_examples.gif "Yes, you can search GIPHY for stickers!") -->
+## Get Stickers From Giphy!
+![Get Stickers With This Command](https://github.com/silvia-odwyer/WinterBot/blob/master/gif.gifs "Send all the cards!") 
 
-## Commands
-NB: Prepend a hyphen before any of the commands below.
+## Usage
+NB: Prepend an exclamation mark before any of the commands below.
 
-
-### Meta Commands
+### Commands
 | Command       | Description   | Examples  |
 | ------------- |:----------------------------------------------------------------------------------------------:| --------- |
 | card            | Send someone a personalised card to celebrate the winter season!  |  `-card @someone`|
@@ -22,5 +21,5 @@ NB: Prepend a hyphen before any of the commands below.
 |avatar      | Send a personalised festive card using your avatar as a background.    |  `-avatar @someone`   |
 
 
-## Invite To Your Server (In case you didn't see above ^^)
+## Invite Link
 [Just click here to invite WinterBot to your server!](https://discordapp.com/oauth2/authorize?&client_id=514833208555339776&scope=bot&permissions=0)
