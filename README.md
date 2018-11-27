@@ -6,8 +6,8 @@ A festive Discord bot made during a UCC Netsoc Hackathon.
 
 It enables you to send festive cards, GIFts, and a whole lot more! :gift: :joy:
 
-## Get Stickers From Giphy!
-![Get Stickers With This Command](https://github.com/silvia-odwyer/WinterBot/blob/master/gif.gifs "Send all the cards!") 
+## WinterBot in Action
+![Get Stickers With This Command](https://github.com/silvia-odwyer/WinterBot/blob/master/gif.gif "Send all the cards!") 
 
 ## Usage
 NB: Prepend an exclamation mark before any of the commands below.
